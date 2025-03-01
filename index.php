@@ -19,6 +19,8 @@ echo '<br> This is a test. Don\'t worry!';
 >>>>>>> Stashed changes
 </head>
 <body>
+
+    <h1>Testing Homepage!</h1>
     
 </body>
 </html>
